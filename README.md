@@ -13,4 +13,7 @@
 - 📫 How to reach me **salma.fayad203@gmail.com**
 
 - ⚡ Fun fact **I love all Programming Memes🤩**
-[SalmaFayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalmaFayad&theme=dark&show_icons=true)
+
+
+### My GitHub Stats
+![SalmaFayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalmaFayad&theme=dark&show_icons=true)
